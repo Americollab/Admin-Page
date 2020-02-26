@@ -29,7 +29,7 @@ body {
   min-width: 100vw;
 }
 
-#wrapper.toggled #sidebar-wrapper 2
+#wrapper.toggled #sidebar-wrapper {
   margin-left: 0;
 }
 
